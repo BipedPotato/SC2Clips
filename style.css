@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen+Mono&display=swap');
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+body
+{
+    font-family: 'Oxygen Mono', monospace;
+    margin: 0;
+    padding : 0;
+    box-sizing : border-box;
+    align-items: center;
+    background: linear-gradient(-45deg, #000000, #393939);
+    background-size: 100% 1000%;
+    font-size: 25px;
+    color : white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.youtube-button
+{
+
+    font-family:'Roboto';
+    padding:0px;
+    padding-right:20px;
+    padding-left:20px;
+    color:#fff;
+    background-color:rgb(204, 24, 30);
+    display:inline-flex;
+    align-items:center;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1),0 2px 4px -1px rgba(0,0,0,0.06);
+    justify-content: center;
+    align-items: center;
+}
+.gamejam-div
+{
+    font-family: 'Oxygen Mono', monospace;
+    width: 600px;
+    word-wrap: break-word;
+    border-radius: 25px;
+    padding:20px;
+    outline: 5px solid white;
+    color:#fff;
+    background-color:rgb(32, 32, 32);
+    display:inline-block;
+    align-items:center;
+    justify-content: center;
+    align-items: center;
+}
+.LanguageFrameworkDiv
+{
+    font-family: 'Oxygen Mono', monospace;
+    margin: 0;
+    padding : 0;
+    box-sizing : border-box;
+    align-items: center;
+    background: linear-gradient(-45deg, #000000, #000000);
+    background-size: 100% 1000%;
+    font-size: 25px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+i{
+    font-size : 30 px;
+    margin-right : 12 px;
+}
+p{
+    font-size : 18px;
+}
+span
+{
+    margin-right:4px;
+}
